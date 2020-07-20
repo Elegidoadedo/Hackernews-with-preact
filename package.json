@@ -1,0 +1,24 @@
+{
+  "name": "preact-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "servor src --reload"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "servor": "^4.0.2",
+    "standard": "^14.3.4"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "dependencies": {
+    "htm": "^3.0.4",
+    "preact": "^10.4.6"
+  }
+}
